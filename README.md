@@ -3,4 +3,4 @@
 - This is made using HTML, CSS AND JS.
 <br>
 ### Visit the site :
-https://mausam-check.netlify.app/
+- https://mausam-check.netlify.app/
